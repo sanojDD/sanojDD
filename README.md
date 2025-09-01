@@ -1,7 +1,7 @@
 # 💫 About Me:
 ### 👋 Hey, I'm Sanoj
 
-I build cool stuff with code — from sleek websites to smart AI workflows. I love mixing web dev with machine learning, especially when it helps solve real-world problems (football analytics is a favorite!). Always exploring new tools, sharing what I learn, and having fun along the way..<br>
+I build cool stuff with code — from sleek websites to data analysis, smart AI workflows. I love mixing web dev with machine learning, especially when it helps solve real-world problems. Always exploring new tools, sharing what I learn, and having fun along the way.<br>
 
 
 ## 🌐 Socials:
@@ -21,3 +21,9 @@ I build cool stuff with code — from sleek websites to smart AI workflows. I lo
 [![](https://visitcount.itsvg.in/api?id=sanojDD&icon=7&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
