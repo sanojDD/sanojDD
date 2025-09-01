@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Science, Machine Learning and NEXT JS**
 
-- 👨‍💻 All of my projects are available at [https://next-animated-portfolio-qyr1.vercel.app/](https://next-animated-portfolio-qyr1.vercel.app/)
+- 👨‍💻 Some of my projects are available at [https://next-animated-portfolio-qyr1.vercel.app/](https://next-animated-portfolio-qyr1.vercel.app/)
 
 - 💬 Ask me about **Web Dev, Data Science and Machine Learning**
 
