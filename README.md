@@ -1,5 +1,7 @@
 # 💫 About Me:
-### 👋 Hi, I'm Sanoj<br><br>I'm a full-stack engineer turned AI workflow architect, blending web development finesse with cutting-edge GenAI orchestration. From responsive Next.js layouts to modular MCP pipelines, I build systems that think, adapt, and scale. Passionate about open-source, football analytics, and turning complex ML concepts into production-ready tools. Always learning, always building.<br>
+### 👋 Hey, I'm Sanoj
+
+I build cool stuff with code — from sleek websites to smart AI workflows. I love mixing web dev with machine learning, especially when it helps solve real-world problems (football analytics is a favorite!). Always exploring new tools, sharing what I learn, and having fun along the way..<br>
 
 
 ## 🌐 Socials:
