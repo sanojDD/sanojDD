@@ -3,8 +3,6 @@
 
 I build cool stuff with code — from sleek websites to data analysis, smart AI workflows. I love mixing web dev with machine learning, especially when it helps solve real-world problems. Always exploring new tools, sharing what I learn, and having fun along the way.<br>
 
-
-## 🌐 Socials:
  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanojdahal8@gmail.com) 
 
 # 💻 Tech Stack:
