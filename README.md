@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG00OGNpZm9kZHk2eng4dXltbTlseXh5cGkxNWd2amRyMTF6ZDNmYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejJ5bXFiNnhiZXZ3dHp3a3FpcjBrOWk3MHdxOHVybjM2eXVsNDY0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4H3Ii5eLChYul9p7NL/giphy.gif" width="350"/>
 </p>
 
 ### 👋 Hey, I'm Sanoj
