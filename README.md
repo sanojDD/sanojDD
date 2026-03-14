@@ -7,8 +7,5 @@
 ## 💻 I build things with code
 From modern websites to data analysis and ML workflows.
 
-- 🚀 I enjoy combining web development and machine learning to solve real-world problems.
-- 🔧 I like exploring new tools, sharing what I learn, and building useful projects.
-
  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanojdahal8@gmail.com) 
 
