@@ -5,7 +5,7 @@
 ### 👋 Hey, I'm Sanoj
 
 ## 💻 I build things with code
-From modern websites to data analysis and AI workflows.
+From modern websites to data analysis and ML workflows.
 
 - 🚀 I enjoy combining web development and machine learning to solve real-world problems.
 - 🔧 I like exploring new tools, sharing what I learn, and building useful projects.
